@@ -1,12 +1,14 @@
 ## 项目准备
 
-1. 配置 `node`
+* 配置 `node`
+
  ```
  curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.30.2/install.sh | bash
  nvm install v4.5.0
  nvm alias default v4.5.0
  ```
-2. 安装依赖
+* 安装依赖
+
  ```
  npm install
  ```
