@@ -26,15 +26,15 @@ npm build
 ```
 
 ### 前端学习之路
-1. 基础知识 . JavsScript高级程序设计; [es6教程](http://es6.ruanyifeng.com/)
-2. 尝试自己搭建前端工程
-3. 模块化思想
-4. 组件化思想
+* 基础知识 . JavsScript高级程序设计; [es6教程](http://es6.ruanyifeng.com/)
+* 尝试自己搭建前端工程
+* 模块化思想
+* 组件化思想
 
-### 程序员3宝物
-1. github
-2. stackoverflow
-3. 博客
+### 程序员3宝
+* github
+* stackoverflow
+* 博客
 
 
 * [git命令学习](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
