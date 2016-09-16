@@ -37,4 +37,4 @@ npm build
 * [oh my zsh](https://github.com/robbyrussell/oh-my-zsh)
 * [一些有用的网址](https://github.com/liu-dongyu/userful-website)
 * [scss学习](http://sass.bootcss.com/)
-* [webpack学习]https://github.com/liu-dongyu/frontend-notes/issues/16
+* [webpack学习](https://github.com/liu-dongyu/frontend-notes/issues/16)
