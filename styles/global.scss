@@ -1,0 +1,10 @@
+body {
+  background-color: red;
+  display: flex;
+}
+
+.bg {
+  width: calc(100% - 50px);
+  height: 100px;
+  background-image: inline('wechat.jpg');
+}
